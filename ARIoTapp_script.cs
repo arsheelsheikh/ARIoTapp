@@ -4,7 +4,7 @@ using UnityEngine;
 using Vuforia;
 using UnityEngine.Networking;
 
-public class ARwithIoT_Script : MonoBehaviour
+public class ARIoTapp_script : MonoBehaviour
 {
     public VirtualButtonBehaviour VB_ON;
     public VirtualButtonBehaviour VB_OFF;
